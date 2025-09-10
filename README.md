@@ -1,2 +1,2 @@
 # Attendance
-Student attendance records
+Информация о прохождении преддипломной практики
